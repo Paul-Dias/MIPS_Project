@@ -5,5 +5,3 @@ members:
 Gabriel Henrique
 Melissa Frigi
 Paulo Henrique
-
-Video explanation Youtube:
