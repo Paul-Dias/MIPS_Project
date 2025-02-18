@@ -1,2 +1,9 @@
-# MIPS_Project
-This repo is related to my team MIPS project
+# AOC_Project
+This repo is related to my MIPS team project
+
+members:
+Gabriel Henrique
+Melissa Frigi
+Paulo Henrique
+
+Video explanation Youtube:
